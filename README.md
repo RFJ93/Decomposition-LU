@@ -3,7 +3,7 @@
 Ce projet illustre la **décomposition LU** d'une matrice carrée, réalisée en Python à l’aide de NumPy et Jupyter Notebook.  
 L’objectif est d’approfondir la compréhension des méthodes de factorisation utilisées pour résoudre efficacement les systèmes linéaires.
 
----
+
 
 ## Objectif
 
@@ -15,7 +15,7 @@ Le notebook détaille :
 - La reconstruction de la matrice $A$ à partir des matrices $L$ et $U$  
 
 
----
+
 
 ## Rappels mathématiques
 
@@ -41,9 +41,9 @@ Cette factorisation est très utilisée pour :
 - Calculer des inverses de matrices,
 - Simplifier les calculs en analyse numérique.
 
----
 
-## ⚙️ Technologies utilisées
+
+## Technologies utilisées
 
 - **Python 3**
 - **NumPy**
@@ -51,7 +51,7 @@ Cette factorisation est très utilisée pour :
 - **Jupyter Notebook**
 
 
----
+
 ## Auteur 
 
 **Rayan FRAJ**
